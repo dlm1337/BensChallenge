@@ -1,0 +1,13 @@
+C:\Users\dlm13\source\repos\BensChallenge\bin\Debug\netcoreapp3.1\BensChallenge.exe
+C:\Users\dlm13\source\repos\BensChallenge\bin\Debug\netcoreapp3.1\BensChallenge.deps.json
+C:\Users\dlm13\source\repos\BensChallenge\bin\Debug\netcoreapp3.1\BensChallenge.runtimeconfig.json
+C:\Users\dlm13\source\repos\BensChallenge\bin\Debug\netcoreapp3.1\BensChallenge.runtimeconfig.dev.json
+C:\Users\dlm13\source\repos\BensChallenge\bin\Debug\netcoreapp3.1\BensChallenge.dll
+C:\Users\dlm13\source\repos\BensChallenge\bin\Debug\netcoreapp3.1\BensChallenge.pdb
+C:\Users\dlm13\source\repos\BensChallenge\obj\Debug\netcoreapp3.1\BensChallenge.csprojAssemblyReference.cache
+C:\Users\dlm13\source\repos\BensChallenge\obj\Debug\netcoreapp3.1\BensChallenge.AssemblyInfoInputs.cache
+C:\Users\dlm13\source\repos\BensChallenge\obj\Debug\netcoreapp3.1\BensChallenge.AssemblyInfo.cs
+C:\Users\dlm13\source\repos\BensChallenge\obj\Debug\netcoreapp3.1\BensChallenge.csproj.CoreCompileInputs.cache
+C:\Users\dlm13\source\repos\BensChallenge\obj\Debug\netcoreapp3.1\BensChallenge.dll
+C:\Users\dlm13\source\repos\BensChallenge\obj\Debug\netcoreapp3.1\BensChallenge.pdb
+C:\Users\dlm13\source\repos\BensChallenge\obj\Debug\netcoreapp3.1\BensChallenge.genruntimeconfig.cache
